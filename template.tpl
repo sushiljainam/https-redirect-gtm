@@ -18,7 +18,7 @@ ___INFO___
     "id": "brand_dummy",
     "displayName": "Templates by sushiljainam"
   },
-  "description": "Add this tag to force your web pages to redirect from http to https via browser.\nPriority must be set high.\n\nopen source at https://gist.github.com/sushiljainam/8c1f8681cb654006088120a7651cbe7d",
+  "description": "Add this tag to force your web pages to redirect from http to https via browser.\nPriority must be set high.\n\nopen source at https://gist.github.com/sushiljainam/8c1f8681cb654006088120a7651cbe7d and https://github.com/sushiljainam/https-redirect-gtm",
   "containerContexts": [
     "WEB"
   ]
