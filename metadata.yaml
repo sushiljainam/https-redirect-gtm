@@ -1,0 +1,5 @@
+homepage: "https://github.com/sushiljainam/https-redirect-gtm"
+documentation: "https://github.com/sushiljainam/https-redirect-gtm"
+versions:
+  - sha: 5b05c2b70e5c3117228ee599454e1de037afa908
+    changeNotes: https redirect is working.
