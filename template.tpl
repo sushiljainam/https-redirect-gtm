@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Redirect to HTTPS",
+  "categories": ["UTILITY"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "Templates by sushiljainam"
